@@ -1,0 +1,25 @@
+Done
+- create json object
+- creating html
+- Add dummy Data
+- Create the styling
+- fetch number of questions from json
+
+Progress
+- show qst count + category bullets
+- show the number of bullets depend on qst count
+- right qst and wrong ones
+- create count down timer
+- fetch the questions from the json object
+- show first question
+- check the qst and passe to next
+- if the count down timer mark qst wrong passe to next
+- done on bullet after answering
+- show results
+
+
+Ideas {
+    - Many json objects and choose language
+    - Add many questions and choose only 10
+    - randomize answers ( shuffle function )
+}
